@@ -13,14 +13,20 @@ This is a [cookiecutter](https://github.com/cookiecutter/cookiecutter) template 
 
 1. Install cookiecutter
 
-    $ pip install cookiecutter
+```
+$ pip install cookiecutter
+```
 
 2. Bootstrap your project
 
-    $ cookiecutter gh:edricgarran/nextjs-template
-    $ cd <project_slug>
-    $ yarn install
+```
+$ cookiecutter gh:edricgarran/nextjs-template
+$ cd <project_slug>
+$ yarn install
+```
 
 3. Start the development server
 
-    $ yarn dev
+```
+$ yarn dev
+```
