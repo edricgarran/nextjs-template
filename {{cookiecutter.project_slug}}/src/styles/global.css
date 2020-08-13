@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
