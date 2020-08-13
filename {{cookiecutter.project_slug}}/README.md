@@ -1,4 +1,4 @@
-# Modify me
+# {{cookiecutter.project_name}}
 
 This project was generated from a cookiecutter template.
 Fill in your own project description.
