@@ -3,7 +3,6 @@
 This project was generated from a cookiecutter template.
 Fill in your own project description.
 
-
 ## Instructions
 
 1. Run the development Server

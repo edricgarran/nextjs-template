@@ -3,11 +3,11 @@ This is a [cookiecutter](https://github.com/cookiecutter/cookiecutter) template 
 
 ## What is preconfigured
 
-* TypeScript
-* Prettier
-* ESLint
-* Very basic global CSS boilerplate
-* A sample page and api endpoint to start with
+- TypeScript
+- Prettier
+- ESLint
+- Very basic global CSS boilerplate
+- A sample page and api endpoint to start with
 
 ## Instructions
 
